@@ -5,7 +5,7 @@ public class Gitignore {
         System.out.println("Git ignore deneme 2.");
         System.out.println("Git ignore deneme 3.");
         System.out.println("Git ignore deneme 4.");
-        // Not:Branch ercan2dayken Pull yapabilecek miyiz?
+        // Not:Branch ercan'dayken Pull yapabilecek miyiz?
 
     }
 }
